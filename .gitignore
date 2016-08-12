@@ -1,0 +1,12 @@
+# composer vendor dir
+/vendor
+
+# node.js npm packages
+/node_modules
+
+# cache and log
+/bootstrap/cache
+/storage
+
+# enviroment config file
+/.env
