@@ -1,0 +1,30 @@
+{
+  "name": "hospital",
+  "description": "hospital structure",
+  "main": "",
+  "authors": [
+    "wah"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "hospital"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.6.3",
+    "ionicons": "~2.0.1",
+    "adminlte": "~2.3.3",
+    "bootstrap3-dialog": "~1.35",
+    "datatables": "~1.10.11",
+    "datatables-select": "~1.2.0",
+    "jquery.cookie": "~1.4.1"
+  }
+}

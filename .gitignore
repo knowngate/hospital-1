@@ -10,3 +10,16 @@
 
 # enviroment config file
 /.env
+
+# gulp generated files
+public/assets/css
+public/assets/js
+public/assets/fonts
+public/assets/images
+public/assets/img
+
+# phpstorm project files
+/.idea
+/.phpstorm.meta.php
+/_ide_helper.php
+/_ide_helper_models.php
